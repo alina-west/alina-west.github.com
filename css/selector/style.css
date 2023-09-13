@@ -55,6 +55,11 @@
   li h4 {
     color: rgb(240, 206, 14);
   }
+
+  img[src*='500px-Polarlicht_2'] {
+    height: 500px;
+    background-color: blue;
+  }
   
   h4 {
     color: rgb(173, 11, 124);
@@ -63,5 +68,5 @@
   li,
   h3 {
     font-family: monospace;
-  }
-  
+
+}

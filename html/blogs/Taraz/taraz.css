@@ -1,27 +1,23 @@
 * {
-    border: 1px solid rgb(245, 245, 248);
+    border: 1px solid rgb(129, 182, 227);
   }
   
   p {
-    color: rgb(11, 11, 11);
-    border: 3px solid rgb(18, 7, 92);
+    color: rgb(3, 25, 91);
+    border: 3px solid rgb(73, 151, 228);
   }
   
   
   .title {
     color: rgb(14, 4, 92);
   }
-  
+
   .uppercase {
     text-transform: uppercase;
   }
   
   #article-title {
     font-family: "Lucida Console", Courier, monospace;
-  }
-  
-  a:hover {
-    color:darkorange;
   }
   
   .heading-background {
@@ -32,8 +28,8 @@
     color: rgb(5, 14, 97);
   }
   
-  h5 {
-    color: yellow;
+  ol h2 {
+    color: rgb(5, 29, 149);
   }
   
   .author-class {
@@ -49,24 +45,25 @@
   }
   
   .description h3 {
-    color: rgb(19, 5, 148);
+    color: rgb(17, 2, 70);
   }
   
-  li h4 {
+  li h3 {
     color: rgb(240, 206, 14);
   }
 
-  img[src*='500px-Polarlicht_2'] {
-    height: 500px;
-    background-color: blue;
-  }
-  
-  h4 {
-    color: rgb(173, 11, 124);
+
+ header h1 {
+    color: rgb(17, 2, 70);
   }
   
   li,
   h3 {
     font-family: monospace;
 
+}
+
+
+body{
+    background-color: rgb(245, 246, 247);
 }

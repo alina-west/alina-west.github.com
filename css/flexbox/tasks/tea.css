@@ -6,6 +6,10 @@ body{
     opacity: 0.9;
 }
 
+.alinchik{
+    padding: 10px;
+}
+
 .logo{
     padding: 10px;
     height: 50px;
@@ -90,12 +94,18 @@ article{
     margin-left: 250px;
 }
 
+.alina{
+    height:200px;
+    width: 300px;
+}
+
 .gym{
     margin-left: 1px;
 }
 
 figcaption{
     text-align: center;
+    height: 10px;
 }
 
 .images{
@@ -134,7 +144,7 @@ figcaption{
     display: inline-flex;
 }
 
-.chill,.kill,.pretty{
+.west,.east,.crescent{
     background-color: black;
   text-align: center;
   width: 300px;

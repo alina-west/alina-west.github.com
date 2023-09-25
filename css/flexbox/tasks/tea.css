@@ -12,3 +12,10 @@ body{
     top: 0;
 }
 
+nav{
+    border-bottom: 1px solid seashell;
+    top: 0;
+    position: fixed;
+    width: 100%;
+    background-color: black;
+}

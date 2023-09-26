@@ -15,3 +15,5 @@ https://alina-west.github.io/html/blogs/schedule/festival.html   This is my fest
 https://alina-west.github.io/html/blogs/resume/resume.html    This is my resume file
 
 https://alina-west.github.io/css/flexbox/tasks/todo.html   This is my Todo file
+
+https://alina-west.github.io/css/flexbox/tasks/tea-project.html  This is my TEA file

@@ -362,6 +362,18 @@ html {
   #quotes-section content {
     padding: 5rem 0;
   }
+
+  .wer{
+    background-color: #4a4a4a;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.gg{
+   
+    text-align: center;
+    color: white;
+    margin-left: 450px;
+}
   
   #quotes-section quote {
     padding-right: 1.875rem;
@@ -372,7 +384,16 @@ html {
     color: #4a4a4a;
   }
   
- 
+  .semantic{
+    width: 400px;
+    height: 350px;
+}
+
+.linka{
+    margin-left: 500px;
+    color: white;
+    margin-bottom: 80px;
+}
   
   @media only screen and (max-width: 760px) {
     #quotes-section content {

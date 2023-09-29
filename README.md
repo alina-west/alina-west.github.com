@@ -19,3 +19,5 @@ https://alina-west.github.io/css/flexbox/tasks/todo.html   This is my Todo file
 https://alina-west.github.io/css/flexbox/tasks/tea-project.html  This is my TEA file
 
 https://alina-west.github.io/testtt/index.html 
+
+https://alina-west.github.io/camera/camera.html

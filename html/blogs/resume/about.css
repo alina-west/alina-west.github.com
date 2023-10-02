@@ -114,13 +114,15 @@ ul {
   .h{
     height: 100vh;
     width: 100%;
+    background-color: black;
+    background-size: cover;
   }
   nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding-top: 45px;
-    padding-left: 8%;
+    padding-left: 7%;
     padding-right: 8%;
   }
   .logo{
@@ -129,3 +131,101 @@ ul {
     letter-spacing: 1px;
     cursor: pointer;
   }
+  nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 25px;
+  }
+  nav ul li a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: capitalize;
+  }
+  nav ul li a:hover{
+    color: red;
+    transition: .4s;
+  }
+
+.portfolio{
+    position: absolute;
+    top: 50%;
+    left: 8%;
+    transform: translateY(-50%);
+}
+h1{
+    color: white;
+    margin: 20px 0px 20px;
+    font-size: 75px;
+}
+h3{
+    color: white;
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+h4{
+    color: rgb(248, 87, 87);
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+.milanie form{
+width: 380px;
+max-width: 100%;
+position: relative;
+}
+.milanie form input:first-child{
+    display: inline-block;
+    width: 100%;
+    padding: 14px 130px 14px 15px;
+    border: 2px solid red;
+    outline: none;
+    border-radius: 30px;
+}
+.milanie form input:last-child{
+    position: absolute;
+    display: inline-block;
+    outline: none;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 30px;
+    background-color: red;
+    color: white;
+    box-shadow: 0px 0px 5px black, 0px 0px 15px;
+    top: 6px;
+    right: 6px;
+}
+.see{
+    background:black;
+    width: 100%;
+    padding: 100px 0px;
+}
+.title h2{
+    color: white;
+    font-size: 75px;
+    width: 1130px;
+    margin: 30px auto;
+    text-align: center;
+}
+.bag{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+}
+.lin{
+height: 365px;
+width: 335px;
+padding: 20px 35px;
+background:grey;
+border-radius: 20px;
+margin: 15px;
+position: relative;
+overflow: hidden;
+text-align: center;
+
+}
+h5{
+    color: white;
+    font-size: 23px;
+    margin-bottom: 15px;
+}

@@ -21,3 +21,5 @@ https://alina-west.github.io/css/flexbox/tasks/tea-project.html  This is my TEA 
 https://alina-west.github.io/testtt/index.html 
 
 https://alina-west.github.io/camera/camera.html
+
+https://alina-west.github.io/html/blogs/resume/about.html

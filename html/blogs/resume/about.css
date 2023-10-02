@@ -7,7 +7,7 @@
 .about{
     width: 100%;
     padding: 78px 0px;
-background-color: black
+ background-color: black;
 }
 .about img{
     height: auto;
@@ -114,7 +114,7 @@ ul {
   .h{
     height: 100vh;
     width: 100%;
-    background-color: black;
+    background-image: url(https://media.istockphoto.com/id/1365412361/photo/network-security-security-security-system-technology-internet-safety-big-data-encryption.webp?b=1&s=170667a&w=0&k=20&c=MbVQtoaS5aKRg0aydRSjlpyQUe_dLT2Je5XbjOFp4fs=);
     background-size: cover;
   }
   nav{
@@ -236,15 +236,6 @@ h5{
 margin-bottom: 25px;
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
+footer{
+    background-color: black;
+}
